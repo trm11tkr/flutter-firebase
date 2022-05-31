@@ -56,13 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void _incrementCounter() async {
     DatabaseReference ref = FirebaseDatabase.instance.ref("users/123");
 
-    await ref.set({
-      "name": "John",
-      "age": 18,
-      "address": {
-        "line1": "100 Mountain View"
-      }
-    });
+    await ref.set('Hello world ${Random().nextInt(100).toString()}');
     setState(() {
       _counter++;
     });
