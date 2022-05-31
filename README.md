@@ -1,16 +1,7 @@
 # flutter_firebase
+flutter_cliを使用し、Andoroid、iOSの両方でRealTime Databaseからの取得
+カウントアップ時にDBのデータを更新
 
-This is a Flutter project that uses the Firebase authentication feature.
 
-## Getting Started
+https://user-images.githubusercontent.com/89247188/171078447-9f47083e-4e57-47fd-909b-012ad3fb7f3e.mov
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
